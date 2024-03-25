@@ -24,7 +24,7 @@ $ git clone https://github.com/rcemper/Vector-inside-IRIS.git
 ```
 To build and start the container run:
 ```
-$ docker compose up -d && docker compose logs -f
+$ docker-compose up -d && docker-compose logs -f
 ```
 To open IRIS Terminal do:
 ```
